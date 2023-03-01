@@ -1,0 +1,105 @@
+08/27/2021-17:02:29.197159  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:55022 -> 172.16.10.132:3306
+08/27/2021-17:02:29.197159  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:55022 -> 172.16.10.132:3306
+08/27/2021-17:02:29.197159  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:55022 -> 172.16.10.132:3306
+08/27/2021-17:02:29.697129  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:55022 -> 172.16.10.132:3306
+08/27/2021-17:02:29.697129  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:55022 -> 172.16.10.132:3306
+08/27/2021-17:02:29.697129  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:55022 -> 172.16.10.132:3306
+08/27/2021-17:02:30.198019  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:55022 -> 172.16.10.132:3306
+08/27/2021-17:02:30.294812  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:55028 -> 172.16.10.132:3306
+08/27/2021-17:02:30.198019  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:55022 -> 172.16.10.132:3306
+08/27/2021-17:02:30.804556  [**] [1:2002911:6] ET SCAN Potential VNC Scan 5900-5920 [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:55137 -> 172.16.10.132:5907
+08/27/2021-17:02:30.794833  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:55028 -> 172.16.10.132:3306
+08/27/2021-17:02:30.903438  [**] [1:2002911:6] ET SCAN Potential VNC Scan 5900-5920 [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:55052 -> 172.16.10.132:5900
+08/27/2021-17:02:31.704999  [**] [1:2002910:6] ET SCAN Potential VNC Scan 5800-5820 [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:55208 -> 172.16.10.132:5800
+08/27/2021-17:02:31.916506  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:55482 -> 172.16.10.132:5432
+08/27/2021-17:02:31.916506  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:55482 -> 172.16.10.132:5432
+08/27/2021-17:02:31.818630  [**] [1:2002910:6] ET SCAN Potential VNC Scan 5800-5820 [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:55447 -> 172.16.10.132:5801
+08/27/2021-17:02:31.916506  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:55482 -> 172.16.10.132:5432
+08/27/2021-17:02:32.016671  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:55556 -> 172.16.10.132:5432
+08/27/2021-17:02:32.016671  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:55556 -> 172.16.10.132:5432
+08/27/2021-17:02:32.416751  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:55482 -> 172.16.10.132:5432
+08/27/2021-17:02:32.016671  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:55556 -> 172.16.10.132:5432
+08/27/2021-17:02:32.416751  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:55482 -> 172.16.10.132:5432
+08/27/2021-17:02:32.498089  [**] [1:2001972:20] ET SCAN Behavioral Unusually fast Terminal Server Traffic Potential Scan or Infection (Inbound) [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 172.16.10.1:55063 -> 172.16.10.132:3389
+08/27/2021-17:02:32.498089  [**] [1:2013479:5] ET SCAN Behavioral Unusually fast Terminal Server Traffic Potential Scan or Infection (Outbound) [**] [Classification: Misc activity] [Priority: 3] {TCP} 172.16.10.1:55063 -> 172.16.10.132:3389
+08/27/2021-17:02:32.517008  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:55556 -> 172.16.10.132:5432
+08/27/2021-17:02:32.830336  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:56172 -> 172.16.10.132:1433
+08/27/2021-17:02:32.830336  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:56172 -> 172.16.10.132:1433
+08/27/2021-17:02:32.932267  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:56241 -> 172.16.10.132:1433
+08/27/2021-17:02:32.932267  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:56241 -> 172.16.10.132:1433
+08/27/2021-17:02:32.830336  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:56172 -> 172.16.10.132:1433
+08/27/2021-17:02:32.932267  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:56241 -> 172.16.10.132:1433
+08/27/2021-17:02:32.917516  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:55482 -> 172.16.10.132:5432
+08/27/2021-17:02:33.330766  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:56172 -> 172.16.10.132:1433
+08/27/2021-17:02:33.330766  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:56172 -> 172.16.10.132:1433
+08/27/2021-17:02:33.432550  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:56241 -> 172.16.10.132:1433
+08/27/2021-17:02:33.932512  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:56241 -> 172.16.10.132:1433
+08/27/2021-17:02:37.400825  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:56900 -> 172.16.10.132:1521
+08/27/2021-17:02:37.400825  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:56900 -> 172.16.10.132:1521
+08/27/2021-17:02:37.409982  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:56983 -> 172.16.10.132:1521
+08/27/2021-17:02:37.409982  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:56983 -> 172.16.10.132:1521
+08/27/2021-17:02:37.400825  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:56900 -> 172.16.10.132:1521
+08/27/2021-17:02:37.409982  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:56983 -> 172.16.10.132:1521
+08/27/2021-17:02:37.900759  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:56900 -> 172.16.10.132:1521
+08/27/2021-17:02:37.900759  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:56900 -> 172.16.10.132:1521
+08/27/2021-17:02:37.910727  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:56983 -> 172.16.10.132:1521
+08/27/2021-17:02:38.400854  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:56900 -> 172.16.10.132:1521
+08/27/2021-17:02:59.049002  [**] [1:2001219:20] ET SCAN Potential SSH Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:49365 -> 172.16.10.132:22
+08/27/2021-17:02:59.049002  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:49365 -> 172.16.10.132:22
+08/27/2021-17:02:59.250048  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:49367 -> 172.16.10.132:22
+08/27/2021-17:02:59.551937  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:49370 -> 172.16.10.132:22
+08/27/2021-17:02:59.629078  [**] [1:2018489:4] ET SCAN NMAP OS Detection Probe [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 172.16.10.1:51722 -> 172.16.10.132:41758
+08/27/2021-17:02:59.629078  [**] [1:2018489:4] ET SCAN NMAP OS Detection Probe [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 172.16.10.1:51722 -> 172.16.10.132:41758
+08/27/2021-17:02:59.451494  [**] [1:2001219:20] ET SCAN Potential SSH Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:49369 -> 172.16.10.132:22
+08/27/2021-17:02:59.451494  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:49369 -> 172.16.10.132:22
+08/27/2021-17:02:59.629078  [**] [1:2018489:4] ET SCAN NMAP OS Detection Probe [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 172.16.10.1:51722 -> 172.16.10.132:41758
+08/27/2021-17:02:59.705479  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:49372 -> 172.16.10.132:22
+08/27/2021-17:02:59.831756  [**] [1:2018489:4] ET SCAN NMAP OS Detection Probe [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 172.16.10.1:51722 -> 172.16.10.132:41758
+08/27/2021-17:02:59.831756  [**] [1:2018489:4] ET SCAN NMAP OS Detection Probe [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 172.16.10.1:51722 -> 172.16.10.132:41758
+08/27/2021-17:02:59.932983  [**] [1:2018489:4] ET SCAN NMAP OS Detection Probe [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 172.16.10.1:51722 -> 172.16.10.132:41758
+08/27/2021-17:02:59.932983  [**] [1:2018489:4] ET SCAN NMAP OS Detection Probe [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 172.16.10.1:51722 -> 172.16.10.132:41758
+08/27/2021-17:03:00.034077  [**] [1:2018489:4] ET SCAN NMAP OS Detection Probe [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 172.16.10.1:51722 -> 172.16.10.132:41758
+08/27/2021-17:03:00.034077  [**] [1:2018489:4] ET SCAN NMAP OS Detection Probe [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 172.16.10.1:51722 -> 172.16.10.132:41758
+08/27/2021-17:02:59.831756  [**] [1:2018489:4] ET SCAN NMAP OS Detection Probe [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 172.16.10.1:51722 -> 172.16.10.132:41758
+08/27/2021-17:02:59.932983  [**] [1:2018489:4] ET SCAN NMAP OS Detection Probe [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 172.16.10.1:51722 -> 172.16.10.132:41758
+08/27/2021-17:03:00.034077  [**] [1:2018489:4] ET SCAN NMAP OS Detection Probe [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 172.16.10.1:51722 -> 172.16.10.132:41758
+08/27/2021-17:02:59.654358  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:49371 -> 172.16.10.132:22
+08/27/2021-17:03:00.661930  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:49400 -> 172.16.10.132:22
+08/27/2021-17:03:00.811019  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:49418 -> 172.16.10.132:22
+08/27/2021-17:03:00.874864  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:49425 -> 172.16.10.132:22
+08/27/2021-17:03:00.850947  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:49423 -> 172.16.10.132:22
+08/27/2021-17:12:39.266683  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:52106 -> 172.16.10.133:3306
+08/27/2021-17:12:39.266683  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:52106 -> 172.16.10.133:3306
+08/27/2021-17:12:39.367955  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:52133 -> 172.16.10.133:3306
+08/27/2021-17:12:39.367955  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:52133 -> 172.16.10.133:3306
+08/27/2021-17:12:39.568790  [**] [1:2002910:6] ET SCAN Potential VNC Scan 5800-5820 [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:52174 -> 172.16.10.133:5811
+08/27/2021-17:12:39.670681  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:52201 -> 172.16.10.133:1521
+08/27/2021-17:12:39.670681  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:52201 -> 172.16.10.133:1521
+08/27/2021-17:12:39.766293  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:52106 -> 172.16.10.133:3306
+08/27/2021-17:12:39.767398  [**] [1:2002911:6] ET SCAN Potential VNC Scan 5900-5920 [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:52104 -> 172.16.10.133:5900
+08/27/2021-17:12:39.771042  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:52224 -> 172.16.10.133:1521
+08/27/2021-17:12:39.771042  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:52224 -> 172.16.10.133:1521
+08/27/2021-17:12:40.171429  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:52201 -> 172.16.10.133:1521
+08/27/2021-17:12:40.675210  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:52497 -> 172.16.10.133:1433
+08/27/2021-17:12:40.675210  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:52497 -> 172.16.10.133:1433
+08/27/2021-17:12:40.776830  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:52568 -> 172.16.10.133:1433
+08/27/2021-17:12:40.776830  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:52568 -> 172.16.10.133:1433
+08/27/2021-17:12:41.175809  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:52497 -> 172.16.10.133:1433
+08/27/2021-17:12:41.366706  [**] [1:2001972:20] ET SCAN Behavioral Unusually fast Terminal Server Traffic Potential Scan or Infection (Inbound) [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 172.16.10.1:52120 -> 172.16.10.133:3389
+08/27/2021-17:12:41.366706  [**] [1:2013479:5] ET SCAN Behavioral Unusually fast Terminal Server Traffic Potential Scan or Infection (Outbound) [**] [Classification: Misc activity] [Priority: 3] {TCP} 172.16.10.1:52120 -> 172.16.10.133:3389
+08/27/2021-17:13:02.832043  [**] [1:2001582:15] ET SCAN Behavioral Unusual Port 1434 traffic Potential Scan or Infection [**] [Classification: Misc activity] [Priority: 3] {TCP} 172.16.10.1:52928 -> 172.16.10.133:1434
+08/27/2021-17:15:17.999944  [**] [1:2002910:6] ET SCAN Potential VNC Scan 5800-5820 [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:53482 -> 172.16.10.133:5800
+08/27/2021-17:17:20.226606  [**] [1:2002910:6] ET SCAN Potential VNC Scan 5800-5820 [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:53611 -> 172.16.10.133:5801
+08/27/2021-17:18:04.304852  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:53658 -> 172.16.10.133:1433
+08/27/2021-17:18:04.304852  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:53658 -> 172.16.10.133:1433
+08/27/2021-17:18:04.804767  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:53658 -> 172.16.10.133:1433
+08/27/2021-17:18:04.804767  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:53658 -> 172.16.10.133:1433
+08/27/2021-17:18:05.305535  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.16.10.1:53658 -> 172.16.10.133:1433
+08/29/2021-20:22:32.659340  [**] [1:2001219:20] ET SCAN Potential SSH Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:50624 -> 172.16.10.133:22
+08/29/2021-20:22:32.659340  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:50624 -> 172.16.10.133:22
+08/29/2021-20:54:42.129790  [**] [1:2001219:20] ET SCAN Potential SSH Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:55862 -> 172.16.10.132:22
+08/29/2021-20:54:42.129790  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:55862 -> 172.16.10.132:22
+08/29/2021-20:54:43.131146  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:55862 -> 172.16.10.132:22
+08/29/2021-20:54:48.141820  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:55866 -> 172.16.10.132:22
+08/29/2021-20:54:49.143043  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:55866 -> 172.16.10.132:22
+08/29/2021-20:55:06.117667  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.16.10.1:55867 -> 172.16.10.132:22

@@ -1,0 +1,88 @@
+version: "3.6"
+
+services:
+    es01:
+        build:
+            context: elasticsearch
+            args:
+                ELK_VERSION: $ELK_VERSION
+        container_name: es01
+        environment:
+            node.name: es01
+            ES_JAVA_OPTS: "-Xmx512m -Xms512m"
+            ELASTIC_USERNAME: elastic
+            ELASTIC_PASSWORD: ${ELASTIC_PASSWORD:-}
+        ports:
+            - "9200:9200"
+            - "9300:9300"
+        networks:
+            - elastic-net
+        volumes:
+            - type: bind
+              source: "./elasticsearch/config/elasticsearch.yml"
+              target: /usr/share/elasticsearch/config/elasticsearch.yml
+            - type: bind
+              source: ./data
+              target: /usr/share/elasticsearch/data
+
+    logstash:
+        build:
+            context: logstash
+            args:
+                ELK_VERSION: $ELK_VERSION
+        container_name: logstash
+        environment:
+            LS_JAVA_OPTS: "-Xmx256m -Xms256m"
+        ports:
+            - "5045:5045/tcp"
+            - "5045:5045/udp"
+            - "5046:5046/tcp"
+            - "5046:5046/udp"
+            - "5047:5047/tcp"
+            - "5047:5047/udp"
+            - "9600:9600"
+        networks:
+            - elastic-net
+        volumes:
+            - type: bind
+              source: ./logstash/config/logstash.yml
+              target: /usr/share/logstash/config/logstash.yml
+            - type: bind
+              source: ./logstash/pipeline
+              target: /usr/share/logstash/pipeline
+        depends_on:
+            - es01
+
+    kibana:
+        build:
+            context: kibana
+            args:
+                ELK_VERSION: $ELK_VERSION
+        container_name: kibana
+        ports:
+            - "5601:5601"
+        networks:
+            - elastic-net
+        volumes:
+            - type: bind
+              source: ./kibana/config/kibana.yml
+              target: /usr/share/kibana/config/kibana.yml
+        depends_on:
+            - es01
+
+    elastalert:
+        build:
+            context: elastalert2
+        container_name: elastalert2
+        networks:
+            - elastic-net
+        volumes:
+            - type: bind
+              source: ./elastalert2/rules
+              target: /opt/elastalert2/rules
+        depends_on:
+            - es01
+
+networks:
+    elastic-net:
+        driver: bridge

@@ -1,0 +1,12 @@
+
+# Default config
+
+cluster.name: "mini-elk-docker"
+network.host: 0.0.0.0
+discovery.type: single-node
+
+# X-Pack security credentials
+
+xpack.license.self_generated.type: basic
+xpack.security.enabled: true
+xpack.monitoring.collection.enabled: true
